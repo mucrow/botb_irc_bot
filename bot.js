@@ -5,4 +5,4 @@
 */
 
 var main = require('./bot_modules/main.js');
-main.initialize();
+main.initialize()
